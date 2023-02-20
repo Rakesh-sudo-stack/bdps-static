@@ -290,3 +290,7 @@ footer ul{
 .text-bold{
     font-weight: 700;
 }
+
+.text-highlight{
+    color: blueviolet;
+}
