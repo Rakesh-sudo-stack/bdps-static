@@ -76,6 +76,8 @@ nav ul li.dropdown-nav-li ul li{
     color: #fff;
     font-size: 0.9rem;
     border-bottom: 1px solid grey;
+    height: 100%;
+    width: 100%;
 }
 
 nav ul li.dropdown-nav-li ul li:hover{
@@ -83,6 +85,7 @@ nav ul li.dropdown-nav-li ul li:hover{
 }
 
 nav ul li.dropdown-nav-li ul li a{
+    padding: 0.8rem 0.7rem;
     text-transform: capitalize;
     height: 100%;
     width: 100%;
@@ -222,6 +225,10 @@ footer{
     background: rgb(103, 21, 141);
     padding: 2rem 6rem;
     color: #fff;
+}
+footer a{
+    color: #fff;
+    text-decoration: none;
 }
 
 footer ul{
